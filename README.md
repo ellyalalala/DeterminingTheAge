@@ -9,4 +9,4 @@ Build a model that will determine the approximate age of a person from a photogr
 Instructions for completing the project:
 -Conduct an exploratory analysis of a set of photographs.
 -Prepare the data for training.
--Train a neural network and calculate its quality.
+-Train a neural network and calculate its quality. 
