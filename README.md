@@ -1,4 +1,5 @@
 # DeterminingTheAge
+computer vision
 
 Determining the age of buyers
 The Khleb-Sol chain supermarket introduces a computer vision system for processing customer photos. Photo recording in the checkout area will help determine the age of customers in order to:
